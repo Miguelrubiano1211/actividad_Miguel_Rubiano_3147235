@@ -1,36 +1,21 @@
-# Senda de Fuego 🔥
-
-Este sitio lo creé como un diario de aprendizaje, estudio y reflexión. No soy maestro, no soy iluminado, solo un aprendiz más. Lo que vas a encontrar aquí no es una religión, ni un dogma, ni algo que pretenda imponer una verdad. Es solo una recopilación de pensamientos, evangelios, reflexiones, experiencias y estudios que me han servido en el proceso de buscar algo más allá de este mundo dormido.
-
+## Motosport: La Ruta del Ahorro 🏍️
+Este sitio lo creé como un recurso para todos los amantes de las motos que buscan opciones económicas y descuentos increíbles. No soy un experto, solo un apasionado de las motos que quiere compartir información útil.
 ## ✨ ¿Qué contiene el sitio?
-
-- **Inicio (`index.html`)**: Un mensaje de bienvenida y el propósito de todo esto.
-- **Evangelios (`evangelios.html`)**: Algunos evangelios canónicos y apócrifos, cada uno con una breve explicación sencilla del mensaje central.
-- **Sabiduría (`sabiduria.html`)**: Textos, frases y enseñanzas que recojo de muchas fuentes: Biblia, Kybalion, Evangelios gnósticos, filosofía, etc.
-- **Diario (`diario.html`)**: Algunos fragmentos personales que he escrito sobre mis luchas, caídas, sueños, visiones o aprendizajes.
-- **Contacto (`contacto.html`)**: Para quien necesite hablar, compartir su proceso o simplemente buscar apoyo.
-
+Inicio (index.html): Una visión general de las motos económicas y ofertas destacadas.
+Motos Económicas (motos-economicas.html): Una lista de motos accesibles con sus precios y características.
+Ofertas y Descuentos (ofertas.html): Las mejores promociones y descuentos en motos.
+Comparativas (comparativas.html): Análisis detallados de diferentes modelos para ayudarte a elegir la mejor opción.
+Contacto (contacto.html): Para quien necesite más información o asesoramiento.
 ## 🎨 Diseño
-
-- Colores neutros y detalles que recuerdan al fuego, porque el fuego representa transformación.
-- Todo está hecho con HTML semántico y CSS externo.
-- Es un diseño simple, ligero y funcional.
-
+Colores vibrantes que evocan la emoción de la velocidad y el ahorro.
+Todo está hecho con HTML semántico y CSS externo para una experiencia de usuario óptima.
+Un diseño moderno y funcional que te ayudará a encontrar lo que buscas rápidamente.
 ## 🔧 Tecnologías
-
-- HTML5
-- CSS3
-- Todo está pensado para funcionar de forma estática, sin backend (por ahora, eventualmente éste desarrollo web lo subiré profe).
-
+HTML5
+CSS3
+Todo está pensado para funcionar de forma estática, facilitando la navegación y acceso a la información.
 ## 🔒 Sobre el contenido
-
-No es perfecto. No tiene la verdad absoluta. Es una herramienta, un puente. Cada quien es libre de tomar lo que le sirva y dejar lo que no.
-
+La información proporcionada es basada en investigaciones y datos actuales. Cada quien es libre de utilizarla según sus necesidades y preferencias.
 ## ✍️ Nota final
-
-No estoy buscando seguidores, ni reconocimiento. Si estás aquí y algo te sirve, me alegra mucho. Y si algún día tú haces algo parecido, me alegraría más. Todo esto fue creado con respeto, oración y disciplina. 
-
-Cualquier persona que busque un poco de luz o claridad en su propio sendero, es bienvenida.
-
-
-**Samuel Sánchez**
+Si estás buscando una moto económica o un buen descuento, espero que encuentres aquí lo que necesitas. ¡Disfruta explorando y buena suerte en tu búsqueda!
+ **Miguel Rubiano**

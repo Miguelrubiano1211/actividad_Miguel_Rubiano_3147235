@@ -3,9 +3,9 @@
 :root {
   --color-fondo: #1a1a1a;
   --color-texto: #f2f2f2;
-  --color-primario: #ff0000; /* tono fuego */
-  --color-secundario: #c9a74f; /* dorado sutil */
-  --color-acento: #7a3e28;
+  --color-primario: #006eff; /* tono fuego */
+  --color-secundario: #006eff; /* dorado sutil */
+  --color-acento: #ffffff;
   --tipografia-principal: 'Georgia', serif;
   --tipografia-secundaria: 'Arial', sans-serif;
   --borde-letras:
@@ -71,7 +71,7 @@ img {
   max-width: 80%;
   border-radius: 20px;
   margin: 1rem 0;
-  margin-left: 10%;
+  margin-left: 30%;
 }
 
 
